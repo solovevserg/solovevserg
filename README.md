@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Sergei Solovev, frontnd web teamlead, analyst and teacher.
+I am Sergei Solovev, frontend web teamlead, analyst and teacher.
 
 - Currently working in [Qoollo](https://qoollo.com/)
 - Studing and teaching at [BMSTU](https://bmstu.ru/) on Applied Computer Sciences (Data analysis)
