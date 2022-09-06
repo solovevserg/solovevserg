@@ -12,6 +12,7 @@ Formerly
 - Cofounder of [SDAL](https://sdal.pw/) IT company
 
 You can find more info at [my portfolio page](https://solovevserg.github.io/)
+
 See my educational events and materials in the [list](https://github.com/solovevserg/studies)
 
 ### Contacts
