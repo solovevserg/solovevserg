@@ -2,12 +2,17 @@
 
 I am Sergei Solovev, frontend web team lead, analyst and teacher
 
-- Currently working in [Qoollo](https://qoollo.com/)
-- Studing and teaching at [BMSTU](https://bmstu.ru/) on Applied Computer Sciences (Data analysis)
-- Conducting researches at [LISA](https://www.researchgate.net/lab/LISA-BMSTU-Laboratory-of-Informatisation-and-Social-Analysis-Roman-Batin) laboratory
-- Developing projects with partners under own brand [SDAL](https://sdal.pw/)
+- Lead Angular developer at [Tinkoff](https://github.com/Tinkoff)
+
+Formerly 
+- Frontend and analyst team lead at [Qoollo](https://github.com/qoollo)
+- Graduate on Applied Computer Sciences at [BMSTU](https://bmstu.ru)
+- Teacher at [BMSTU](https://bmstu.ru), [HSE](https://hse.ru), [Quantorium](https://roskvantorium.ru/)
+- Researcher at [LISA](https://www.researchgate.net/lab/LISA-BMSTU-Laboratory-of-Informatisation-and-Social-Analysis-Roman-Batin) laboratory
+- Cofounder of [SDAL](https://sdal.pw/) IT company
 
 You can find more info at [my portfolio page](https://solovevserg.github.io/)
+See my educational events and materials in the [list](https://github.com/solovevserg/studies)
 
 ### Contacts
 
