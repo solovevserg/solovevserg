@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Sergei Solovev, frontend web team lead, analyst and teacher
+I am Sergei Solovev, passionate fullstack TS developer, data enthusiast and teacher
 
 - Lead Angular developer at [Tinkoff](https://github.com/Tinkoff)
 
