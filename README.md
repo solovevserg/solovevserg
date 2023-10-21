@@ -1,20 +1,22 @@
 ### Hi there 👋
 
-I am Sergei Solovev, passionate fullstack TS developer, data enthusiast and teacher
+I am Sergei Solovev: developer, researcher and entrepreneur
 
-- Lead Angular developer at [Tinkoff](https://github.com/Tinkoff) ⚡
+Currently
+- 👨‍💻 Lead Angular developer at [Tinkoff](https://github.com/Tinkoff)
+- 👨‍🎓 Postgraduate student in philosophy of science and technology at [BMSTU](https://bmstu.ru/)
 
 Formerly 
-- Frontend and analyst team lead at [Qoollo](https://github.com/qoollo)
-- Applied computer science master's degree at [BMSTU](https://bmstu.ru)
-- Teacher at [BMSTU](https://bmstu.ru), [HSE](https://hse.ru), [Quantorium](https://roskvantorium.ru/)
-- Cofounder of [SDAL](https://sdal.pw/) IT company
-- Researcher at [LISA](https://www.researchgate.net/lab/LISA-BMSTU-Laboratory-of-Informatisation-and-Social-Analysis-Roman-Batin) laboratory
+- Frontend and analytics team lead at [Qoollo](https://github.com/qoollo)
+- Bachelor and master of applied computer science at [BMSTU](https://bmstu.ru)
+- Teacher at [HSE](https://hse.ru), [BMSTU](https://bmstu.ru), [Quantorium](https://roskvantorium.ru/)
+- Architect and developer at [RideNow Taxi](https://ridenow.taxi/) startup
+- Cofounder of [SDAL](https://sdal.pw/) digital studio
 
-You can find more info at [my portfolio page](https://solovevserg.github.io/)
+You can find more info at [my page](https://sergsol.dev/)
 
-See full list of my educational events and materials in the [list](https://github.com/solovevserg/studies)
+See full list of my educational events and materials in the [repo](https://github.com/solovevserg/studies)
 
 ### Contacts
 
-You can reach me via [Telegram](https://t.me/sergsol) and follow me on [Pinterest](https://www.pinterest.ru/solovevserg/)
+You can reach me via [Telegram](https://t.me/sergsol)
